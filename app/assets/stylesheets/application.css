@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+
+.new_chirp div {
+	padding-bottom: 10px;
+}
+
+.new_chirp label {
+	padding-right: 20px;
+}
